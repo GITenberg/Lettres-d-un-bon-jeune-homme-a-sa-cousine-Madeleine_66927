@@ -1,5 +1,8 @@
 _repo: Lettres-d-un-bon-jeune-homme-a-sa-cousine-Madeleine_66927
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66927-h/images/cover.jpg
 creator:
   author:
     agent_name: About, Edmond
@@ -18,6 +21,8 @@ creator:
     - https://en.wikipedia.org/wiki/Edmond_François_Valentin_About
     - https://fr.wikipedia.org/wiki/Edmond_About
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66927#Lettres-d-un-bon-jeune-homme-a-sa-cousine-Madeleine
 gutenberg_issued: '2021-12-12'
 identifiers:
   gutenberg: '66927'
